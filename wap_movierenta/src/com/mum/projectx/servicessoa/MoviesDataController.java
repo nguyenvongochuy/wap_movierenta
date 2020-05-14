@@ -1,4 +1,4 @@
-package com.mum.projectx.controller;
+package com.mum.projectx.servicessoa;
 
 import java.io.IOException;
 import java.util.List;

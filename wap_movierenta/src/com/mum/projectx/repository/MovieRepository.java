@@ -7,7 +7,6 @@ import java.util.Optional;
 
 import com.mum.projectx.model.Data;
 import com.mum.projectx.model.Movie;
-import com.mum.projectx.model.User;
 import com.mum.projectx.storage.StorageInterface;
 
 class MovieRepository implements MovieRepositoryInterface {
