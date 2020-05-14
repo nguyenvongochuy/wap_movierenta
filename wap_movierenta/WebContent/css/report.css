@@ -1,0 +1,66 @@
+#main-container {
+    width: 80%;
+    background-color: black;
+    padding: 0;
+    margin: auto;
+}
+
+#container{
+	height: 80%	
+}
+
+.highcharts-figure, .highcharts-data-table table {
+    min-width: 310px; 
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.highcharts-data-table table {
+    font-family: Verdana, sans-serif;
+    border-collapse: collapse;
+    border: 1px solid green;
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+}
+.highcharts-data-table caption {
+    padding: 1em 0;
+    font-size: 1.2em;
+    color: blue;
+}
+.highcharts-data-table th {
+	font-weight: 600;
+    padding: 0.5em;
+}
+.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
+    padding: 0.5em;
+}
+.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
+    background: red;
+}
+.highcharts-data-table tr:hover {
+    background:yellow;
+}
+
+.report-form{
+	border-radius: 10px;
+    background-color: #fff;
+    padding: 30px;
+    color: black;
+}
+
+.chart-title{
+	font-size: 28px;
+    line-height: 1.2;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+  
+    display: block;
+    margin-bottom: 40px;
+}
+
+.label-group{
+	font-weight: bold;
+}

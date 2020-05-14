@@ -1,0 +1,15 @@
+.custom-header{
+	background: black;
+}
+.navbar-dark .navbar-nav .nav-item >.nav-link {
+	color: white!important;
+}
+
+.active {
+	font-weight: bold;
+	background-color: transparent!important;
+}
+
+.form-inline{
+	margin: 5px;
+}

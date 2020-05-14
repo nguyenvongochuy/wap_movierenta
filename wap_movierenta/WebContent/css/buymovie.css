@@ -1,0 +1,34 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background: black;
+}
+
+.poster-image{
+	height: 80%;
+	width: 80%;
+}
+
+#buyMovieForm{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.alignImg{
+	align-items: center;
+}
+
+.main-container {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.smallIconPlayVideo {
+	height: 10%;
+  	width: 10%;
+}

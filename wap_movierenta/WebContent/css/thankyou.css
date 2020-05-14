@@ -1,0 +1,28 @@
+.poster-image{
+	height: 80%;
+	width: 80%;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: black;
+}
+
+.main-container {
+    width: 50%;
+    background-color: black;
+    color: white;
+    /* padding: 0; */
+    margin: auto;
+    /* bottom: 0; */
+    text-align: center;
+    border: 1px solid gray;
+     /*align-items: center; */
+}
+
+.alignCenter{
+	text-align: center;
+}
